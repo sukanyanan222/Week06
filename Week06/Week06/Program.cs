@@ -25,7 +25,6 @@ namespace Week06
             Console.WriteLine(maxHeight);
             Console.WriteLine(minHeight);
             Console.WriteLine(actualHeight);
-
         }
     }
 }
